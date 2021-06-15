@@ -1,0 +1,46 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Gömülü Şamdan</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Zweig, Stefan">Stefan Zweig</dc:creator>
+    <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid">{98433146-EA4A-4258-A4ED-DC7E2C8E2251}</dc:identifier>
+    <dc:date opf:event="modification">2017-03-29</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">3862f034-06f9-4cfa-841f-f9a8c332e5c4</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta name="calibre:title_sort" content="Gömülü Şamdan"/>
+    <meta name="calibre:author_link_map" content="{&quot;Stefan Zweig&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="yazar.xhtml" href="Text/yazar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye0.xhtml" href="Text/kunye0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kunye.xhtml" href="Text/kunye.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epigraf.xhtml" href="Text/epigraf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01.xhtml" href="Text/01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notlar.xhtml" href="Text/notlar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id3" href="Styles/main.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="logo_is_bankasi.svg" href="Images/logo_is_bankasi.svg" media-type="image/svg+xml"/>
+    <item id="logo.jpeg" href="Images/logo.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="id4">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="yazar.xhtml"/>
+    <itemref idref="kunye0.xhtml"/>
+    <itemref idref="kunye.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="epigraf.xhtml"/>
+    <itemref idref="x01.xhtml"/>
+    <itemref idref="notlar.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>
