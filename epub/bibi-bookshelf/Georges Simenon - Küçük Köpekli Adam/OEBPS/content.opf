@@ -1,0 +1,54 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut" opf:file-as="Simenon, Georges">Georges Simenon</dc:creator>
+<dc:identifier id="BookId" opf:scheme="UUID"/>
+    <dc:date>1996-07-18T21:00:00+00:00</dc:date>
+    <meta content="0.7.4" name="Sigil version"/>
+    <meta name="cover" content="cover.jpg"/>
+  <dc:title>Küçük Köpekli Adam</dc:title>
+<meta name="calibre:title_sort" content="Küçük Köpekli Adam"/>
+<dc:publisher>Nisan Yayınları</dc:publisher>
+<meta name="calibre:rating" content="10.0"/>
+<dc:subject>Polisiye</dc:subject>
+<dc:description>&lt;p&gt;...Yaşantımda başka alışkanlıklarım, başka geleneklerim oldu. Sabahları kahve kokusu ve annemin mutfaktaki ayak sesleriyle uyandım, daha sonraları bir çalar saatle, sonra bir kadın vücudunun hareketleri ve hayvani sıcaklığıyla. Bebek viyaklamaları, yan odada bir çocuğun pıtır pıtır yürümesi beni uykudan uyandırdı. Daha sonra... Böyle gidersem sonunu hiç getiremeyeceğim ve pişmanlık duyuyormuşum gibi yanlış bir izlenim verebilirim...&lt;/p&gt;</dc:description>
+<dc:contributor opf:role="bkp">calibre (1.45.0) [http://calibre-ebook.com]</dc:contributor>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Georges Simenon&quot;: &quot;&quot;}"/>
+<dc:language>tr</dc:language>
+<dc:identifier opf:scheme="calibre">2bcdbce3-e7a7-471c-80bb-6aa474e6e8fb</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9799757496532</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/09.htm" id="x09.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/kunye.htm" id="kunye.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/01.htm" id="x01.htm" media-type="application/xhtml+xml"/>
+    <item href="Styles/Style.css" id="Style.css" media-type="text/css"/>
+    <item href="Text/02.htm" id="x02.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/03.htm" id="x03.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/04.htm" id="x04.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/05.htm" id="x05.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/06.htm" id="x06.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/07.htm" id="x07.htm" media-type="application/xhtml+xml"/>
+    <item href="Text/08.htm" id="x08.htm" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="kunye.htm"/>
+    <itemref idref="x01.htm"/>
+    <itemref idref="x02.htm"/>
+    <itemref idref="x03.htm"/>
+    <itemref idref="x04.htm"/>
+    <itemref idref="x05.htm"/>
+    <itemref idref="x06.htm"/>
+    <itemref idref="x07.htm"/>
+    <itemref idref="x08.htm"/>
+    <itemref idref="x09.htm"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
